@@ -18,8 +18,10 @@ To run this project, you'll need to have Python installed along with the Pygame 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/yourusername/tetris-ai.git
-    cd tetris-ai
     ```
+2. **Navigate to the project directory:**
+    ```bash
+    cd tetris-ai
 
 2. **Create a virtual environment:**
     ```bash
